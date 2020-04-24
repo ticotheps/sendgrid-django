@@ -1,0 +1,7 @@
+asgiref==3.2.7
+Django==3.0.5
+gunicorn==20.0.4
+python-http-client==3.2.7
+pytz==2019.3
+sendgrid==6.2.2
+sqlparse==0.3.1
